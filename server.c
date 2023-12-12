@@ -1,4 +1,6 @@
-// The #include directive in C is used to include header files, which are similar in concept to the import statement in Python and javascript for instance.
+// The #include directive in C is used to include header files, which are similar 
+// in concept to the import statement in Python and javascript for instance.
+
 #include <stdio.h>                  // Include the standard input-output library
 #include <stdlib.h>                 // Include the standard library
 #include <string.h>                 // Include the string manipulation library
@@ -15,7 +17,7 @@
 // #define PI 3.14 - A symbolic constant in C
 // const PI = 3.14 - A constant in JavaScript
 
-
+// This is the program's entry point
 int main() {                         // Main function begins
     int server_fd, new_socket;       // Declare integer variables for socket file descriptors
     struct sockaddr_in address;      // Declare a structure to hold socket address information
