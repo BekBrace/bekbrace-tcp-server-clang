@@ -12,7 +12,7 @@ Make sure you have a C compiler installed on your system, such as GCC.
 
 ## Clone the repo
 ```bash
-git clone https://github.com/your-username/simple-c-socket-server.git
+git clone https://github.com/BekBrace/bekbrace-tcp-server-clang.git
 cd simple-c-socket-server
 ```
 
