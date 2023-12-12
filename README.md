@@ -1,6 +1,7 @@
 # Simple C Socket Server
 
 This is a basic C program that demonstrates the implementation of a simple socket server. 
+![pngegg (1)](https://github.com/BekBrace/bekbrace-tcp-server-clang/assets/60483846/82eac660-3e7d-42c8-8136-e5a766e71018)
 
 The program creates a socket, binds it to a specified port, and listens for incoming connections. 
 
