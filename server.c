@@ -46,6 +46,7 @@ int main() {                         // Main function begins
         exit(EXIT_FAILURE);
     }
 
+
     // Start listening for incoming connections
     if (listen(server_fd, 3) < 0) {  // If starting to listen for connections fails, print an error message and exit
         perror("listen");
